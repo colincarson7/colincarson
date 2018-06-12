@@ -1,1 +1,9 @@
+h1 {
+	background-image: url(old_map_@2X.png);
+}
 
+img {
+	display: block; margin: auto;
+	width: 400px;
+	height: 200px;
+}
